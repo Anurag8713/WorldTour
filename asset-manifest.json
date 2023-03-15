@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WorldTour/static/css/main.d12c0ed3.css",
+    "main.js": "/WorldTour/static/js/main.c6fe3121.js",
+    "index.html": "/WorldTour/index.html",
+    "main.d12c0ed3.css.map": "/WorldTour/static/css/main.d12c0ed3.css.map",
+    "main.c6fe3121.js.map": "/WorldTour/static/js/main.c6fe3121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12c0ed3.css",
+    "static/js/main.c6fe3121.js"
+  ]
+}
